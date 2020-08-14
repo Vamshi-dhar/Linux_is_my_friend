@@ -34,7 +34,7 @@ if you are below anaconda 4.1.0, type conda update conda
 `<conda create -n <py36> python=3.6 ipykernel>`
 
 ### If you are using Python 3 and want a separate Python 2 environment, you could type the following.
-conda create -n <py27> python=2.7 ipykernel
+`<conda create -n <py27> python=2.7 ipykernel>`
 
 Close your terminal and open up a new terminal. type jupyter notebook
 Click new and you will see your virtual environment listed.
