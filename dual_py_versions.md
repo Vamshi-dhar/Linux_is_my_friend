@@ -1,5 +1,5 @@
 ### Create a New Environment
-`<conda create --name subscribe python=3.6>`
+<conda create --name subscribe python=3.6>
 
 ### You can also create an environment with multiple packages in it. This also gives you the option to install additional packages later if you need them.
 `<conda create --name chooseAnotherName python=3.6 numpy pandas scipy>`
